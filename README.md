@@ -8,9 +8,9 @@ My Interests are:
   - **Building Computers** *(well, buying hardware and sticking it on a motherboard)*
 	
 	
-I’m currently learning basic design principles, structures, and algorithms used in software development.  I also am working toward a minor in mathematics, something I never thought I would even attempt, but now I can say I love mathematics (just not inverse trig).
+I’m currently learning basic design principles, structures, and algorithms used in software development.  I also am working toward a minor in mathematics.
 
-I’m looking to collaborate on nothing in particular, I have limited abilities at this point in time, so I'm more interested in gaining experience and whatever projects that entails.
+I’m looking to collaborate on anything that allows me to gain experience and become more fluent with programming languages.
 
 📫 How to reach me:
   - Send me a DM (Direct Message) here on GitHub, we can work from there (or whatever information is displayed by Git)
