@@ -4,7 +4,7 @@ My Interests are:
   - **My Family**
   - **Guitar** *(I really like guitars)*
   - **R/C Cars** 
-  - **Mathematics & Computer Science
+  - **Mathematics & Computer Science**
   - **Building Computers** *(well, buying hardware and sticking it on a motherboard like really fancy legos with a ton of RGB lights... too many...)
 	
 	
