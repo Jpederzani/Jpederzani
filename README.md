@@ -5,7 +5,7 @@ My Interests are:
   - **Guitar** *(I really like guitars)*
   - **R/C Cars** 
   - **Mathematics & Computer Science**
-  - **Building Computers** *(well, buying hardware and sticking it on a motherboard like really fancy legos with a ton of RGB lights... too many...)
+  - **Building Computers** *(well, buying hardware and sticking it on a motherboard)*
 	
 	
 I’m currently learning basic design principles, structures, and algorithms used in software development.  I also am working toward a minor in mathematics, something I never thought I would even attempt, but now I can say I love mathematics (just not inverse trig).
