@@ -1,6 +1,6 @@
 Hi, I’m Jon (@Jpederzani) and I'm a Computer Science Major at Judson University in Elgin, IL.  I don't really know what to put on this page yet so I'm going to stick with the default categories they give.  Prepare to get to know me as Github thinks fit:
 
-My Intrests are:
+My Interests are:
   - **My Family**
   - **Guitar** *(I really like guitars)*
   - **R/C Cars** 
